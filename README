@@ -1,0 +1,5 @@
+This Util attempts to open a socket connection to the HTTP port (port 80) on a configured list of servers. 
+
+The intention is to give to the ability to quickly check the state of all your servers in a server farm.
+
+Use the WebCheck.properties file to configure which servers to check.
